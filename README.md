@@ -8,7 +8,7 @@ C++ Code Implementation of Standard Data Structures & Algorithms
    1. Max Heap: [maxheap.cpp](https://github.com/Ch-sriram/Data-Structures-Algorithms/blob/master/Data%20Structures/Binary%20Heap/maxheap.cpp)
    2. Min Heap: [minheap.cpp](https://github.com/Ch-sriram/Data-Structures-Algorithms/blob/master/Data%20Structures/Binary%20Heap/minheap.cpp)
 2. Linked Lists
-   1. Singly Linked List: [singly.cpp]()
+   1. Singly Linked List: [singly.cpp](https://github.com/Ch-sriram/Data-Structures-Algorithms/blob/master/Data%20Structures/linked-list/singly.cpp)
 
 
 ## Algorithms:
